@@ -3,7 +3,7 @@
  * main - print if the number is positive, zero, or negative
  *
  * Description: using the main function
- * this program prints "Prints the alphabet in lowercase, and then in uppercase"
+ * this program prints "Prints the alphabet in lowercase, and then in uppercase
  * Return: 0
  */
 int main(void)
