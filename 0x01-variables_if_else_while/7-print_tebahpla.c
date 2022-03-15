@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-char c;
-for (c = 'z' ; c >= 'a' ; c--)
+char ch;
+for (ch = 'z' ; ch >= 'a' ; ch--)
 {
-	putcher(c);
+	putcher(ch);
 }
 	putcher('\n');
 	return (0);
