@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,7 +8,6 @@
  *
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	char text[9] = "_putchar";
