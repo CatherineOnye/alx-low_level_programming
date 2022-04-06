@@ -25,3 +25,4 @@ int print_sign(int n)
 		return (0);
 	}
 }
+r=print_sign(-5);
